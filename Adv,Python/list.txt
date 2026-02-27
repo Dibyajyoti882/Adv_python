@@ -1,0 +1,4 @@
+List In Python:
+A list can be defined as a colection of values or items.
+The items in the list separated with the comma(,) and enclosed with the square brackets[].
+Syntax: list-var=[var1,var2,val3......

@@ -1,0 +1,10 @@
+1-Write a program to take a string input from the user and print it in reverse.
+2-Write a program to count the number of uppercase and lowercase characters in a string
+3-write a program to check whether a given string contains only digits
+4-write a program to replace all spaces in a string with underscore(_)
+5-write a program to count the frequency of each character in a string.
+6-Write a program to find the first and last occurrence of a character in a string
+7-write a program to remove all vowels from a string 
+8-write a program to check whether two strings are amagrams of each other
+9-write a program to capitalize the first letter of each word in a string
+10-write a program to check whether a string is a palindrome without using built reverse functions 
